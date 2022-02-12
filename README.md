@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @pjfsu
-# 👀 I’m interested in learning English
+# 👀 I’m interested in learning English and Git
 
 <!---
 pjfsu/pjfsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
