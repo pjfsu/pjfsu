@@ -1,5 +1,12 @@
 # 👋 Hi, I’m @pjfsu
-# 👀 I’m interested in learning English and Git
+# 👀 I’m interested in:
+* Git
+* Docker
+* Ansible
+* Bash
+* POSIX
+* GNU/Linux
+* LPIC
 
 <!---
 pjfsu/pjfsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
