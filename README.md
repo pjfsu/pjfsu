@@ -7,6 +7,9 @@
 * POSIX
 * GNU/Linux
 * LPIC
+* Debian
+* Awk
+* Sed
 
 <!---
 pjfsu/pjfsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
