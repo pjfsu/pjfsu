@@ -1,15 +1,8 @@
 # 👋 Hi, I’m @pjfsu
 ## 👀 I’m interested in:
-* Git
-* Docker
-* Ansible
-* Bash
-* POSIX
-* GNU/Linux
-* LPIC
-* Debian
-* Awk
-* Sed
+* shell scripting (GNU bash)
+* data-driven programing (mawk and sed)
+* GNU/Linux (debian)
 
 <!---
 pjfsu/pjfsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
