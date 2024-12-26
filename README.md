@@ -1,9 +1,3 @@
-Absolutely! Here's the updated GitHub README with the project name "split_book":
-
----
-
-# 📚 Pedro Sánchez Uscamaita's Projects
-
 ## 👋 Introduction
 Hello, I'm Pedro Sánchez Uscamaita! I recently completed my Master's degree in Computer Science from the University of Vigo (UVigo). With a deep passion for GNU/Linux Information Systems administration, I am a dedicated advocate for free and open-source software. I am constantly exploring new technologies and honing my skills. At present, I am preparing for the LPIC-1 certification and the Preliminary English Test (PET).
 
