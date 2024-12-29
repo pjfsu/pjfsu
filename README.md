@@ -3,7 +3,7 @@ Hello, I'm Pedro Sánchez Uscamaita, a Computer Science Engineer from the Univer
 
 ## 🛠 Skills
 - **Programming Languages**: Python, Java, Bash, awk
-- **Operating Systems**: GNU/Linux
+- **Operating Systems**: Distros based on Debian
 
 ## 📁 Projects
 ### Project 1: [split_book](https://github.com/pjfsu/split_book)
