@@ -6,11 +6,12 @@ Hello, I'm Pedro Sánchez Uscamaita, a Computer Science Engineer from the Univer
 - **Operating Systems**: Distros based on Debian
 
 ## 📁 Projects
-### Project 1: [split_book](https://github.com/pjfsu/split_book)
-- **Description**: A tool that splits a book (PDF file) into individual chapters.
-- **Technologies Used**: Bash, XSLT, XSD
+### Project 1: [split_pdf](https://github.com/pjfsu/split_pdf)
+- **Description**: A Bash script to split a PDF file based on the ranges provided in a CSV file.
+- **Technologies Used**: Bash, awk, pdfinfo, pdftk
+- **License**: GPLv3
 
 ## 🚀 Future Goals
 - Contribute to open-source projects.
 - Further my knowledge in cloud computing and DevOps.
-- Achieve LPIC-1 certification and pass the Preliminary English Test (PET).
+- Achieve LPIC-1 certification.
