@@ -1,5 +1,5 @@
 ## 👋 Introduction
-Hello, I'm Pedro Sánchez Uscamaita, a Computer Science Engineer from the University of Vigo (UVigo). Deep passion for GNU/Linux Information Systems administration and Free/Open Source Software.
+Hello, I'm Pedro Sánchez Uscamaita, a Computer Science Engineer from the University of Vigo (UVigo). Enthusiastic for GNU/Linux Information Systems administration and Free/Open Source Software.
 
 ## 🛠 Skills
 - **Programming Languages**: Python, Java, Bash, awk
