@@ -1,5 +1,6 @@
 ## 📁 Projects
 ### Project 1: [split_pdf](https://github.com/pjfsu/split_pdf)
-- **Description**: A Bash script to split a PDF file based on the ranges provided in a CSV file.
-- **Technologies Used**: Bash, awk, pdfinfo, pdftk
+- **Description**: A Bash script to locally split PDF files based on page ranges specified in a CSV file.
+- **Docker Hub**: https://hub.docker.com/r/pjfsu/split_pdf/tags
+- **Technologies Used**: Bash, podman, pdfinfo, pdftk
 - **License**: GPLv3
