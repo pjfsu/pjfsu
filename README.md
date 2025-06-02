@@ -7,5 +7,5 @@
 - **License**: GPLv3
 ## Comparisons
 ### [plain_vs_json_logs](https://github.com/pjfsu/plain_vs_json_logs)
-- **Description**: Demonstrates JSON and plain text logging in a Flask app to highlight the advantages of structured logs when querying with DQL. JSON logs provide clear fields for better readability, eliminating the need for complex string manipulations..
+- **Description**: Demonstrates JSON and plain text logging in a Flask app to highlight the advantages of structured logs when querying with DQL. JSON logs provide clear fields for better readability, eliminating the need for complex string manipulations.
 - **Technologies Used**: Bash, Vagrant, Flask, Dynatrace OneAgent, DQL
