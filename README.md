@@ -1,9 +1,9 @@
 # 📁 Projects
 ## File Management
-### [split_pdf](https://github.com/pjfsu/split_pdf)
-- **Description**: A Bash script to locally split PDF files based on page ranges specified in a CSV file.
-- **Docker Hub**: https://hub.docker.com/r/pjfsu/split_pdf/tags
-- **Technologies Used**: Bash, Podman, Github Actions, poppler-utils, pdftk
+### [book_split](https://github.com/pjfsu/book_split)
+- **Description**: A Bash script to locally split a PDF book based on chapters specified in a CSV file.
+- **Docker Hub**: https://hub.docker.com/r/pjfsu/book_split
+- **Technologies Used**: Bash, Podman, Github Actions, pdftk
 - **License**: GPLv3
 ## Comparisons
 ### [plain_vs_json_logs](https://github.com/pjfsu/plain_vs_json_logs)
