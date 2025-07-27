@@ -1,10 +1,10 @@
 # 📁 Projects
 
 ## File Management
-### [book_split](https://github.com/pjfsu/book_split)
-- Description: A Bash script to locally split a PDF book based on chapters specified in a CSV file.
-- Docker Hub: https://hub.docker.com/r/pjfsu/book_split
-- Technologies Used: GitHub Actions, Podman, Containerfile, Bash, pdftk
+### [split-pdf-bookmarks](https://github.com/pjfsu/split-pdf-bookmarks)
+- Description: Extract bookmarks from PDFs and split documents into chapters using a companion CSV—served as a FastAPI web service and shipped as a Podman/Docker container.
+- Docker Hub: https://hub.docker.com/r/pjfsu/split-pdf-bookmarks
+- Technologies Used: GitHub Actions, Podman, Containerfile, Bash, Python
 - License: GPLv3
 
 ## Comparisons
