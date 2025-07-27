@@ -2,7 +2,7 @@
 
 ## File Management
 ### [split-pdf-bookmarks](https://github.com/pjfsu/split-pdf-bookmarks)
-- Description: Extract bookmarks from PDFs and split documents into chapters using a companion CSV—served as a FastAPI web service and shipped as a Podman container.
+- Description: Extract bookmarks from PDFs and split documents using a companion CSV—served as a FastAPI web service and shipped as a Podman container.
 - Docker Hub: https://hub.docker.com/r/pjfsu/split-pdf-bookmarks
 - Technologies Used: GitHub Actions, Podman, REST API, Bash, Python
 - License: GPLv3
