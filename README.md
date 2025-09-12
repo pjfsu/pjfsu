@@ -23,3 +23,14 @@
 - Description: A minimal “Hello World” application in Go, packaged as a multi-stage container for ultra-lean builds.
 - Technologies Used: GitHub Actions, Go, Podman, Containerfile, Bash
 - License: GPLv3
+
+## Podman Demos
+### [k8s-service-podman-simulation](https://github.com/pjfsu/k8s-service-podman-simulation)
+- Description: A simulation of a Kubernetes Service with Podman .
+- Technologies Used: Podman, Nginx, Python
+- License: MIT
+
+### [helloworld-pod](https://github.com/pjfsu/helloworld-pod)
+- Description: A minimal example of creating and running a Podman pod with NGINX serving static content.
+- Technologies Used: Podman, Nginx
+- License: MIT
