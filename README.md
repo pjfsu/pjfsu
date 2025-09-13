@@ -2,10 +2,26 @@
 
 ## File Management
 ### [split-pdf-bookmarks](https://github.com/pjfsu/split-pdf-bookmarks)
-- Description: Extract bookmarks from PDFs and split documents using a companion CSV—served as a FastAPI web service and shipped as a Podman container.
+- Description: Extract bookmarks from PDFs and split documents using a companion CSV.
 - Docker Hub: https://hub.docker.com/r/pjfsu/split-pdf-bookmarks
 - Technologies Used: GitHub Actions, Podman, REST API, Bash, Python
 - License: GPLv3
+
+## Podman Demos
+### [podman-firewall-minilab](https://github.com/pjfsu/podman-firewall-minilab)
+- Description: This mini‑lab uses Podman to spin up two lightweight OpenWrt router containers and configure their firewalls to control ICMP (ping) traffic between them.
+- Technologies: Podman, OpenWrt, Network, Firewall, ICMP
+- License: MIT
+
+### [k8s-service-podman-simulation](https://github.com/pjfsu/k8s-service-podman-simulation)
+- Description: This guide walks you through simulating a Kubernetes‑style Service using Podman pods and a shared network.
+- Technologies Used: Podman, Nginx, Python, Network, Proxy
+- License: MIT
+
+### [helloworld-pod](https://github.com/pjfsu/helloworld-pod)
+- Description: A minimal example of creating and running a Podman pod with NGINX serving static content.
+- Technologies Used: Podman, Nginx, HTTP, Network
+- License: MIT
 
 ## Comparisons
 ### [plain_vs_json_logs](https://github.com/pjfsu/plain_vs_json_logs)
@@ -23,14 +39,3 @@
 - Description: A minimal “Hello World” application in Go, packaged as a multi-stage container for ultra-lean builds.
 - Technologies Used: GitHub Actions, Go, Podman, Containerfile, Bash
 - License: GPLv3
-
-## Podman Demos
-### [k8s-service-podman-simulation](https://github.com/pjfsu/k8s-service-podman-simulation)
-- Description: A simulation of a Kubernetes Service with Podman .
-- Technologies Used: Podman, Nginx, Python
-- License: MIT
-
-### [helloworld-pod](https://github.com/pjfsu/helloworld-pod)
-- Description: A minimal example of creating and running a Podman pod with NGINX serving static content.
-- Technologies Used: Podman, Nginx
-- License: MIT
