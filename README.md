@@ -24,6 +24,11 @@
 - License: MIT
 
 ## Comparisons
+### [nginx-cpu-vs-ram](https://github.com/pjfsu/nginx-cpu-vs-ram)
+- Description: The goal of this experiment is to understand how allocating more RAM versus more CPU affects the performance of a simple Nginx HTTP server.
+- Technologies Used: Podman, Nginx, ApacheBench
+- License: MIT
+
 ### [plain_vs_json_logs](https://github.com/pjfsu/plain_vs_json_logs)
 - Description: Demonstrates JSON and plain text logging in a Flask app to highlight the advantages of structured logs when querying with DQL.
 - Technologies Used: Dynatrace OneAgent, DQL, Vagrant, Flask, Bash
