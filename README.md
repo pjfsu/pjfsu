@@ -23,6 +23,12 @@
 - Technologies Used: Podman, Nginx, HTTP, Network
 - License: MIT
 
+## Security
+### [32bits-alpine-ssh-hardening](https://github.com/pjfsu/32bits-alpine-ssh-hardening)
+- Description: Hardening SSH on a 32‑bit Alpine Linux system.
+- Technologies Used: Ansible, Alpine, SSH, Bash
+- License: MIT
+
 ## Benchmarking
 ### [nginx-cpu-vs-ram](https://github.com/pjfsu/nginx-cpu-vs-ram)
 - Description: The goal of this experiment is to understand how allocating more RAM versus more CPU affects the performance of a simple Nginx HTTP server.
