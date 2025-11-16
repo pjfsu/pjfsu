@@ -1,13 +1,13 @@
 # 📁 Projects
 
-## File Management
+## Utilities
 ### [split-pdf-bookmarks](https://github.com/pjfsu/split-pdf-bookmarks)
 - Description: Extract bookmarks from PDFs and split documents using a companion CSV.
 - Docker Hub: https://hub.docker.com/r/pjfsu/split-pdf-bookmarks
 - Technologies Used: GitHub Actions, Podman, REST API, Bash, Python
 - License: GPLv3
 
-## Podman Demos
+## Containerization
 ### [podman-firewall-minilab](https://github.com/pjfsu/podman-firewall-minilab)
 - Description: This mini‑lab uses Podman to spin up two lightweight OpenWrt router containers and configure their firewalls to control ICMP (ping) traffic between them.
 - Technologies: Podman, OpenWrt, Network, Firewall, ICMP
@@ -23,7 +23,7 @@
 - Technologies Used: Podman, Nginx, HTTP, Network
 - License: MIT
 
-## Comparisons
+## Benchmarking
 ### [nginx-cpu-vs-ram](https://github.com/pjfsu/nginx-cpu-vs-ram)
 - Description: The goal of this experiment is to understand how allocating more RAM versus more CPU affects the performance of a simple Nginx HTTP server.
 - Technologies Used: Podman, Nginx, ApacheBench
@@ -39,7 +39,7 @@
 - Technologies Used: Ansible, Vagrant, Dynatrace OneAgent, Dynatrace Dashboard, Python
 - License: MIT
 
-## Language Demos
+## Programming
 ### [go-hello-world](https://github.com/pjfsu/go-hello-world)
 - Description: A minimal “Hello World” application in Go, packaged as a multi-stage container for ultra-lean builds.
 - Technologies Used: GitHub Actions, Go, Podman, Containerfile, Bash
