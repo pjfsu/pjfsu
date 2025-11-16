@@ -4,49 +4,49 @@
 ### [split-pdf-bookmarks](https://github.com/pjfsu/split-pdf-bookmarks)
 - Description: Extract bookmarks from PDFs and split documents using a companion CSV.
 - Docker Hub: https://hub.docker.com/r/pjfsu/split-pdf-bookmarks
-- Technologies Used: GitHub Actions, Podman, REST API, Bash, Python
+- Technologies: GitHub Actions, Podman, REST API, Bash, Python
 - License: GPLv3
 
 ## Containerization
-### [podman-firewall-minilab](https://github.com/pjfsu/podman-firewall-minilab)
-- Description: This mini‑lab uses Podman to spin up two lightweight OpenWrt router containers and configure their firewalls to control ICMP (ping) traffic between them.
-- Technologies: Podman, OpenWrt, Network, Firewall, ICMP
-- License: MIT
-
 ### [k8s-service-podman-simulation](https://github.com/pjfsu/k8s-service-podman-simulation)
-- Description: This guide walks you through simulating a Kubernetes‑style Service using Podman pods and a shared network.
-- Technologies Used: Podman, Nginx, Python, Network, Proxy
+- Description: Simulating of a Kubernetes‑style Service using Podman pods and a shared network.
+- Technologies: Podman, Nginx
 - License: MIT
 
 ### [helloworld-pod](https://github.com/pjfsu/helloworld-pod)
-- Description: A minimal example of creating and running a Podman pod with NGINX serving static content.
-- Technologies Used: Podman, Nginx, HTTP, Network
+- Description: An example of creating and running a Podman pod with NGINX serving static content.
+- Technologies: Podman, Nginx, HTTP
 - License: MIT
 
 ## Security
+### [podman-firewall-minilab](https://github.com/pjfsu/podman-firewall-minilab)
+- Description: Configuration of firewalls on two lightweight OpenWrt router containers to regulate ICMP (ping) traffic between them.
+- Technologies: Podman, OpenWrt, Firewall, ICMP
+- License: MIT
+
 ### [32bits-alpine-ssh-hardening](https://github.com/pjfsu/32bits-alpine-ssh-hardening)
 - Description: Hardening SSH on a 32‑bit Alpine Linux system.
-- Technologies Used: Ansible, Alpine, SSH, Bash
+- Technologies: Ansible, Alpine, SSH, Bash
 - License: MIT
 
 ## Benchmarking
 ### [nginx-cpu-vs-ram](https://github.com/pjfsu/nginx-cpu-vs-ram)
-- Description: The goal of this experiment is to understand how allocating more RAM versus more CPU affects the performance of a simple Nginx HTTP server.
-- Technologies Used: Podman, Nginx, ApacheBench
+- Description: An experiment analyzing how increased RAM versus increased CPU resources affect the performance of a basic Nginx HTTP server.
+- Technologies: Podman, Nginx, ApacheBench
 - License: MIT
 
 ### [plain_vs_json_logs](https://github.com/pjfsu/plain_vs_json_logs)
-- Description: Demonstrates JSON and plain text logging in a Flask app to highlight the advantages of structured logs when querying with DQL.
-- Technologies Used: Dynatrace OneAgent, DQL, Vagrant, Flask, Bash
+- Description: A Flask application showcasing both JSON and plain‑text logging to illustrate the benefits of structured logs for DQL queries.
+- Technologies: Dynatrace, DQL, Vagrant, Flask, Bash
 - License: MIT
 
 ### [sum_list_vs_gen](https://github.com/pjfsu/sum_list_vs_gen)
-- Description: Demonstrates the stark differences in memory usage between list comprehensions and generator expressions when processing large datasets in Python.
-- Technologies Used: Ansible, Vagrant, Dynatrace OneAgent, Dynatrace Dashboard, Python
+- Description: An experiment showcasing the contrasting memory usage of list comprehensions versus generator expressions when processing large datasets in Python.
+- Technologies Used: Ansible, Vagrant, Dynatrace, Python
 - License: MIT
 
 ## Programming
 ### [go-hello-world](https://github.com/pjfsu/go-hello-world)
 - Description: A minimal “Hello World” application in Go, packaged as a multi-stage container for ultra-lean builds.
-- Technologies Used: GitHub Actions, Go, Podman, Containerfile, Bash
+- Technologies: GitHub Actions, Go, Podman, Bash
 - License: GPLv3
